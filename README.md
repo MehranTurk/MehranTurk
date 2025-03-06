@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="cWmflE0RytJF9wNfyrVMIhv0PNgX2DyftzebcU8cHnE" />
 ## I like simple, fast, powerful programs
 
 ## All the programs that I make and are going to make follow these rules
